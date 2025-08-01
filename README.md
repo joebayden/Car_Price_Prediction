@@ -54,5 +54,5 @@ Using a **Decision Tree Regressor**, the model was trained on real-world car lis
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/Car_Price_Prediction.git
+   git clone https://github.com/joebayden/Car_Price_Prediction.git
    cd Car_Price_Prediction
