@@ -1,6 +1,6 @@
 # Car_Price_Prediction
 
-# Car Price Prediction in Belarus 🇧🇾 Nazarov Islom
+# Car Price Prediction in Belarus by Nazarov Islom
 
 This project aims to **predict car prices in Belarus** , **analyse car data** , **find the corralations**  using machine learning, based on key vehicle features like brand, year, engine specs, fuel type, transmission, mileage, and segment.
 
